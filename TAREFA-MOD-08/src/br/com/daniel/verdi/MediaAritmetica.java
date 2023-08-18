@@ -1,3 +1,5 @@
+package br.com.daniel.verdi;
+
 public class MediaAritmetica {
 
     public static void main(String[]args){
